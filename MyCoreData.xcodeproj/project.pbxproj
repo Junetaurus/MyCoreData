@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		60D4F8501EE1129F00258329 /* MyCoreData.gif in Resources */ = {isa = PBXBuildFile; fileRef = 60D4F84F1EE1129F00258329 /* MyCoreData.gif */; };
 		AE62333C1CF97D6A004BE82B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE62333B1CF97D6A004BE82B /* main.m */; };
 		AE62333F1CF97D6A004BE82B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AE62333E1CF97D6A004BE82B /* AppDelegate.m */; };
 		AE6233421CF97D6A004BE82B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE6233411CF97D6A004BE82B /* ViewController.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		60D4F84F1EE1129F00258329 /* MyCoreData.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = MyCoreData.gif; sourceTree = "<group>"; };
 		AE6233371CF97D6A004BE82B /* MyCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE62333B1CF97D6A004BE82B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AE62333D1CF97D6A004BE82B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		AE62333A1CF97D6A004BE82B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				60D4F84F1EE1129F00258329 /* MyCoreData.gif */,
 				AE62333B1CF97D6A004BE82B /* main.m */,
 			);
 			name = "Supporting Files";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE62334A1CF97D6A004BE82B /* Assets.xcassets in Resources */,
+				60D4F8501EE1129F00258329 /* MyCoreData.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
